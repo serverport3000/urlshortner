@@ -2,8 +2,8 @@
 
 ## Today's Agenda
 
-    - Boilerplate Setup
     - Building Auth
+        JWT Authentication with Argon2
 
 [@serverport3000](https://www.youtube.com/@serverport3000)
 
